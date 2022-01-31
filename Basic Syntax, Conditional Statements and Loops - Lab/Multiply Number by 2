@@ -1,0 +1,4 @@
+function multiplyNumberTwice(num) {
+    console.log(num * 2);
+}
+multiplyNumberTwice(2);
