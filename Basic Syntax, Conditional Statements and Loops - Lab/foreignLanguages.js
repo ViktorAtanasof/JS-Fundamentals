@@ -14,6 +14,7 @@ function languages(country) {
             break;
     }
 }
+
 languages("USA");
 languages("England");
 languages("Spain");
