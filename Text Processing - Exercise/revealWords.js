@@ -9,7 +9,7 @@ function revealWords(words, templates) {
         }
     }
 
-    console.log(templates)
+    console.log(templates);;
 }
 
 revealWords('great',
