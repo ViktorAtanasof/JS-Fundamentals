@@ -26,4 +26,4 @@ function addandSubstract(arr) {
 
 addandSubstract([5, 15, 23, 56, 35]);
 addandSubstract([-5, 11, 3, 0, 2]);
-..
+.
