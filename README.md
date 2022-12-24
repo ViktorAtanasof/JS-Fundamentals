@@ -14,6 +14,15 @@ In the "Programming Fundamentals" course, students begin to study **SoftUni's** 
 - <a href="#soft-concepts-second-part">Software Development Concepts - Part 2</a>
 - <a href="#arrays-advanced">Arrays Advanced</a>
 - <a href="#objects-classes">Objects and Classes</a>
+- <a href="#bit-ops">Bitwise Operations</a>
+- <a href="#ass-arrays">Associative Arrays</a>
+- <a href="#problem-solving">Problem Solving</a>
+- <a href="#text-processing">Text Processing</a>
+- <a href="#db">Database Basics</a>
+- <a href="#regex">Regular Expressions</a>
+- <a href="#git-github">Git and GitHub</a>
+- <a href="#qa">QA Introduction</a>
+- <a href="#web-project">Basic Web Project</a>
 
 
 ## <p id="syntax">Basic Syntax, Conditional Statements and Loops</p>
@@ -90,3 +99,60 @@ In the "Programming Fundamentals" course, students begin to study **SoftUni's** 
 - Reference vs. Value Types
 - JSON
 - Classes
+
+## <p id="bit-ops">Bitwise Operations</p>
+- What is a Bit, Byte, KB, MB?
+- Numeral Systems
+- Representation of Data in Computer Memory
+
+
+## <p id="ass-arrays">Associative Arrays</p>
+- Associative Arrays (definition, attributes, iteration)
+- Map (methods, iteration)
+- Set (methods, iteration)
+
+
+## <p id="problem-solving">Problem Solving</p>
+- Fundamental Skills of Software Engineers
+- Problems: Definition and Problem Solving
+- Stages of Problem Solving
+- Solving Exam Problems
+
+
+## <p id="text-processing">Text Processing</p>
+- Strings
+- Manipulating Strings (Concatenating, Searching, Substring, Splitting, Replacing)
+
+
+## <p id="db">Database Basics</p>
+- Databases Introduction
+- SQL vs. NoSQL Databases
+- DBMS Systems
+- Relational Databases, SQL and MySQL Database
+- NoSQL Databases and MongoDB
+
+## <p id="regex">Regular Expressions</p>
+- Regular Expressions (Definition and Pattern, Predefined Character Classes)
+- Quantifiers and Grouping
+- Backreferences
+
+
+## <p id="git-github">Git and GitHub</p>
+- Software Configuration Management
+- Intro to Git
+- Intro to Github
+
+
+## <p id="qa">QA Introduction</p>
+- Software Quality Assurance
+- QA Engineers and Resposibilities
+- Bugs and Bug Trackers
+- Testing, Test Types and Test Levels
+- Test Automation, Frameworks and Tools
+
+
+## <p id="web-project">Basic Web Project</p>
+- Node Modules (HTTP, Creating simple HTTP Server)
+- Express.js Framework
+- MVC
+- MVC with Node, Express.js, Handlebars
