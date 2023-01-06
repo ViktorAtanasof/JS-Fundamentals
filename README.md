@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 # JS Fundamentals course
 
 The "Programming Fundamentals" examines fundamental concepts in programming, which are the basis for effective and quality training in the professional modules. Learners build on the knowledge gained in the Programming Basics course and begin to use more complex programming concepts and structures such as: **arrays**, **sheets**, **citizen objects**, and **classes**. Additional technologies needed by every software developer are studied, such as **HTML** and **CSS**, **HTTP**, **bit operations**, and more. The fundamentals of web development are covered, as well as one of the most common technologies and tools with which the course successfully builds students' ideas about the upcoming professional modules and the knowledge they will gain from them to become successful software developers.
@@ -93,6 +95,7 @@ The "Programming Fundamentals" examines fundamental concepts in programming, whi
 - Array Operations (push, pop, shift, unshift, filtering and transforming elements)
 - Sorting Arrays
 
+(<a href="#top">back to top</a>)
 
 ## <p id="objects-classes">Objects and Classes</p>
 - Objects (definition, properties and methods)
@@ -156,3 +159,5 @@ The "Programming Fundamentals" examines fundamental concepts in programming, whi
 - Express.js Framework
 - MVC
 - MVC with Node, Express.js, Handlebars
+
+(<a href="#top">back to top</a>)
